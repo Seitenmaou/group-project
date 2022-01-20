@@ -25,6 +25,13 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+
+.Seitenmaou-style{
+    color: red;
+    background-color: gray;
+    padding: 5px;
+}
+
 .jane-style {
     color: hotpink;
     background-color: black;
